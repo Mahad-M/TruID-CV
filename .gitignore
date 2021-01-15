@@ -1,1 +1,5 @@
 /venv/
+/resources/card_videos/*
+/resources/face_images/*
+/resources/id_images/*
+/tmp
